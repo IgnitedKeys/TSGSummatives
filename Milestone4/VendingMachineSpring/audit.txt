@@ -1,0 +1,36 @@
+22-11-2021 17:50:08 || $5 added to machine
+22-11-2021 17:50:08 || $1.57 in change returned
+22-11-2021 17:50:08 || Item: Candy-113 sold
+22-11-2021 17:50:16 || $4 added to machine
+22-11-2021 17:50:16 || $0.57 in change returned
+22-11-2021 17:50:16 || Item: Candy-113 sold
+22-11-2021 17:53:06 || $3 added to machine
+22-11-2021 17:53:06 || $0.00 in change returned
+22-11-2021 17:53:06 || Item: Chips-111 sold
+22-11-2021 17:53:16 || $4.66 added to machine
+22-11-2021 17:53:16 || $1.66 in change returned
+22-11-2021 17:53:16 || Item: Chips-111 sold
+22-11-2021 17:53:26 || $2 added to machine
+22-11-2021 17:53:26 || $0.83 in change returned
+22-11-2021 17:53:26 || Item: Cookies-114 sold
+22-11-2021 19:46:46 || $3 added to machine
+22-11-2021 19:46:46 || $0.75 in change returned
+22-11-2021 19:46:46 || Item: Chocolate-112 sold
+22-11-2021 19:58:58 || $4 added to machine
+22-11-2021 19:58:58 || $0.57 in change returned
+22-11-2021 19:58:58 || Item: Candy-113 sold
+29-11-2021 18:09:11 || $4.66 added to machine
+29-11-2021 18:09:11 || $1.66 in change returned
+29-11-2021 18:09:11 || Item: Chips-111 sold
+29-11-2021 18:09:29 || $4 added to machine
+29-11-2021 18:09:29 || $0.57 in change returned
+29-11-2021 18:09:29 || Item: Candy-113 sold
+29-11-2021 18:25:59 || $100 added to machine
+29-11-2021 18:25:59 || $97.75 in change returned
+29-11-2021 18:25:59 || Item: Chocolate-112 sold
+29-11-2021 18:29:36 || $5 added to machine
+29-11-2021 18:29:36 || $3.83 in change returned
+29-11-2021 18:29:36 || Item: Cookies-114 sold
+15-12-2021 18:07:03 || $5 added to machine
+15-12-2021 18:07:03 || $2.00 in change returned
+15-12-2021 18:07:03 || Item: Chips-111 sold
