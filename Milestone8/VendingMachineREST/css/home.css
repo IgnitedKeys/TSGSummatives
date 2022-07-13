@@ -1,0 +1,107 @@
+h1 {
+    text-align: center;
+}
+/* 
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+body {
+    background-color: #f9f9f9;
+}
+
+label {
+    font-size: large;
+}
+
+
+#addMoneyDiv {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#purchaseDiv {
+    display: contents;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#changeDiv {
+    display: contents;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.itemCard {
+    display: inline-grid;
+    grid-template-rows: 80px auto 80px;
+    grid-template-columns: repeat(3, 60px [col-start]);
+    gap: 20px 20px;
+    margin: 5px;
+    border-style: solid;
+}
+
+.itemBtn {
+    width: 200px;
+    height: 200px;
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    display: table-cell;
+    width: 200px;
+    height: 200px;
+    font-size: 1rem;
+    position: relative;
+    text-align: center;
+}
+
+.content {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.amount {
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
+}
+
+input {
+    height: 3rem;
+    width: 8rem;
+    border: 2px solid black;
+    text-align: center;
+}
+
+button {
+    margin: 5px;
+}
+
+.btn-secondary {
+    height: 3rem;
+    width: 8rem;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.btn-primary {
+    height: 3rem;
+    border: 2px solid black;
+    text-align: center;
+
+}
