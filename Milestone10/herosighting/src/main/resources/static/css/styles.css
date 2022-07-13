@@ -1,0 +1,305 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 29, 2022, 1:08:20 PM
+    Author     : adrees
+*/
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #457b9d;
+    color: #1d3557;
+
+    /*    font-family: 'Comic Neue', cursive;*/
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size:small;
+
+}
+
+
+.container {
+    background-color: #f1faee;
+    height: 100%;
+    margin-top: 0;
+    display:block;
+    overflow: auto;
+
+
+}
+
+#homeContainer {
+    height: auto;
+}
+
+.navbar {
+    background-color: #a8dadc;
+    /*    background-color: #902724;*/
+    width: inherit;
+
+}
+
+
+#homeTable {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+#homeTable tr{
+    border-bottom: solid;
+    border-width: 1px 0;
+    line-height: 5em;
+}
+
+#homeHeading {
+    height: 100px;
+    margin-top: 30px;
+}
+#homeBtn {
+    width: 130px;
+    height: 40px;
+    background-color: #e63946;
+    font-size: x-small;
+    border-color: #e63946;
+
+
+}
+
+#homeBtn a {
+    color: #f1faee;
+}
+
+#homeDate {
+    font-weight:bolder;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+#sightingsHeading {
+    height: 100px;
+    margin-top: 30px;
+}
+
+#sightingsDiv {
+    height: 100px;
+
+    font-size: 1.1em;
+
+    margin-top: 15px;
+}
+
+#sightingsDiv a:hover {
+    color: #e63946;
+}
+
+.sightingsBtn {
+    width: 80px;
+    height: 40px;
+
+}
+
+#addsightingDiv {
+    margin: 20px;
+    background-color: #a8dadc;
+    height: 200px;
+    border-radius: 1em;
+}
+
+.addSightingBtn {
+
+    width:120px;
+    height:40px;
+    background-color: pink;
+}
+
+#sightingsBtnDiv{
+    margin-top: 30px;
+}
+
+#addNewSightingDiv{
+
+}
+
+#addSightingForm {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#addSightingHeading {
+    height: 80px;
+    margin-top: 30px;
+}
+
+#locationHeading {
+    margin-top: 30px;
+}
+
+#editSightingForm{
+    margin-left: 20%;
+    margin-right:20%;
+}
+
+#sightingHeading {
+    margin-top: 30px;
+    height: 50px;
+}
+
+#sightingLocationDiv {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#sightingSuperDiv {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#addSuperForm{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+#superNameDiv {
+    margin-top: 50px;
+    height: 120px;
+
+}
+
+#superDescriptionDiv{
+    margin-left: 50px;
+}
+
+#superButtonDiv {
+    margin-top: 20px;
+    margin-left: 7em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#superOrganizationTable, tr, td {
+    border-style: hidden;
+
+
+}
+
+td {
+    height: 15px;
+}
+
+#supersDiv {
+    margin-left: 20%;
+    margin-right:20%;
+    margin-top: 30px;
+}
+
+#supersDiv div {
+    height: 50px;
+    font-size: 1.2em;
+}
+
+#supersDiv a:hover {
+    color: #e63946;
+    font-size:larger;
+    
+}
+
+#organizationDiv {
+    height: 150px;
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin-top: 15px;
+}
+
+#addOrganizationForm {
+    margin-left: 20%;
+    margin-right:20%;
+
+}
+
+#addOrganizationForm label {
+    margin-right: 50px;
+}
+
+.organizationInfoDiv {
+    margin-top: 30px;
+}
+
+.organizationSuper {
+    margin-top: 10px;
+
+}
+
+.organizationSuper:before {
+    content:"• ";
+}
+
+#addLocation{
+    font-size:smaller;
+    font-weight: bold;
+
+}
+
+#basicBtn {
+    background-color: #e63946;
+    color: #f1faee;
+    border-color: #e63946;
+
+}
+
+#basicBtn a {
+    color: #f1faee;
+
+}
+
+#locationsDiv a:hover {
+    color: #e63946;
+}
+
+
+
+#basicBtn a:hover {
+    color: #e63946;
+   
+    
+}
+
+#basicBtn:hover {
+    color: #e63946;
+    background-color: #f1faee;
+}
+
+.nameBorder:hover {
+    font-size:larger;
+    color: #e63946;
+    
+}
+
+
+.dropdown-menu {
+    background-color: #457b9d;
+    color: white;
+}
+
+.dropdown-menu a {
+    color: white;
+}
+
+.dropdown-menu a:hover {
+    color: #457b9d;
+}
